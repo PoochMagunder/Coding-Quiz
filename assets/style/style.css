@@ -12,12 +12,21 @@ body{
     background: black;
     color: white;
 }
-
+/* --Header-- */
 header{
     text-align: center;
     font-size: larger;
 }
 
+.highscore{
+    
+}
+
+.timer{
+
+   
+}
+/* --Quiz Display-- */
 main{
     display: flex;
     flex-direction: column;
