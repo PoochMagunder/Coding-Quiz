@@ -180,7 +180,7 @@ function showResults() {
   console.log(score);
   questions.textContent = "Your Final Results:";
   result.textContent = "";
-  headerText.style.display = "initial";
+  headerText.style.display = "";
   headerText.textContent = "All Done!";
   display.children[3].style.display = "none";
   finalScoreDisplay.textContent = score;
